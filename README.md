@@ -25,7 +25,7 @@ mmd表情参考
 以下为全部表情
 ===
 
-![](.\morph.jpg)
+![](https://github.com/Sinsax/mmd-facial-expression/edit/main/morph.jpg)
 
 眉
 ---
